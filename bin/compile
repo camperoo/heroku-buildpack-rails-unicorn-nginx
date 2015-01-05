@@ -2,8 +2,8 @@
 
 set -e
 
-BP_NGINX='https://github.com/mikeotoole/nginx-buildpack'
-BP_RUBY='https://github.com/heroku/heroku-buildpack-ruby'
+BP_NGINX='https://github.com/camperoo/nginx-buildpack'
+BP_RUBY='https://github.com/camperoo/heroku-buildpack-ruby'
 
 BUILD_DIR=$1
 CACHE_DIR=$2

@@ -4,7 +4,7 @@
 
 * Add it to your Heroku config:
 
-  `$ heroku config:add BUILDPACK_URL=https://github.com/joelcogen/heroku-buildpack-rails-unicorn-nginx`
+  `$ heroku config:add BUILDPACK_URL=https://github.com/camperoo/heroku-buildpack-rails-unicorn-nginx`
     
 * Require unicorn in your `Gemfile`:
 
